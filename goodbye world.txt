@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 print ("goodbye mzf")
+=======
+print ("goodbye")
+>>>>>>> origin/feature/goodbye
